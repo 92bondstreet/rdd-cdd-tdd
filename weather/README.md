@@ -8,31 +8,22 @@
 
 1. Fork the project via github
 1. Clone the project git clone https://github.com/YOUR_USERNAME/rdd-cdd-tdd
-1. Solve each exercises inside index.js file with JavaScript
-1. Check your codebase by opening /public/index.js
-1. Check the ouput in your browser console
-
-## INSTALL
+1. Check your codebase by opening /weather/index.js 
 
 
-1) Fork le dossier
-2) Clone
-3) open a terminal and g to the good directory
-4) node index.js
-5) npm install public-ip
-6) npm install chalk
-7) npm install cli-table
-8) npm install minimist
+## HOW DOES IT WORK ?
 
-// ou Faire installer npm install.
+  open a terminal and go to the good directory
+  node index.js
+  npm install to install all the modules necessary to work the code.
 
 
-## How does it work ?
+## OPTIONS
 
-1) To know the temperature of the place where you are :
- node index.js
-
-2) To know the temperature of a specific place you tape:
-node index.js -s courbevoie
+  To know the temperature of the place where you are :
+  node index.js
+  
+  To know the temperature of a specific place you tape:
+  node index.js -s courbevoie
 
  
