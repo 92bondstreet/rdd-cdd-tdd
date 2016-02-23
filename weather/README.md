@@ -4,7 +4,20 @@
 
 
 **********************************************
-INSTALL
+## FEATURES
+**********************************************
+
+    Fork the project via github
+    Clone the project git clone https://github.com/YOUR_USERNAME/drivy
+    Solve each exercises inside index.js file with JavaScript
+    Once the exercise is solved, commit something like git ac "decrease pricing for longer rentals (exo 2)"
+    6 exercises, so 6 commits
+    Don't forget to push before 4 PM
+    Check your codebase by opening /public/index.html
+    Check the ouput in your browser console
+
+**********************************************
+## INSTALL
 **********************************************
 
 1) Fork le dossier
@@ -20,7 +33,7 @@ INSTALL
 
 
 **********************************************
-How does it work ?
+## How does it work ?
 **********************************************
 1) To know the temperature of the place where you are :
  node index.js
