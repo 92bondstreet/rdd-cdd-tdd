@@ -1,6 +1,6 @@
-# cli-weather
+#Cli-weather
 
-![](https://www.ag.ndsu.edu/archive/entomology/ndsucpr/Years/2007/july/12/weather.jpg)
+![](http://www.madeliasliveweather.com/Website%20Images/Website%20Logo.jpg)
 
 
 **********************************************
