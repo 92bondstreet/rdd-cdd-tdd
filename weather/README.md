@@ -1,5 +1,5 @@
 #Cli-weather
-> javascript workshop based on drivy
+> javascript workshop based on weather
 
 ![](http://www.madeliasliveweather.com/Website%20Images/Website%20Logo.jpg)
 
@@ -12,10 +12,11 @@
 
 
 ## HOW DOES IT WORK ?
-
-  open a terminal and go to the good directory
-  node index.js
-  npm install to install all the modules necessary to work the code.
+  
+  * Step 1
+    open a terminal and go to the good directory
+    node index.js
+    npm install to install all the modules necessary to work the code.
 
 
 ## OPTIONS
