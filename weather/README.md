@@ -13,12 +13,17 @@
 
 ## HOW DOES IT WORK ?
 
-*********************************************
-  - Step 
-*********************************************  
-open a terminal and go to the good directory
-    node index.js
-    npm install to install all the modules necessary to work the code.
+* Step 1 :
+    Open a terminal and go to the directory where you have the directory weather.
+    
+*  Step 2 :
+    Tape "npm install" to install all the modules necessary to work the code.
+  
+*  Step 3 :
+    Tape node index.js 
+
+*  Step 4 :
+    You will see an array of some information: the current day, the high temperature, the low temperature and information about  the weather condition
 
 
 ## OPTIONS
