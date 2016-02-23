@@ -11,6 +11,7 @@
 1. Check your codebase by opening /weather/index.js 
 
 
+
 ## HOW DOES IT WORK ?
 
 * Step 1 :
@@ -26,12 +27,16 @@
     You will see an array of some information: the current day, the high temperature, the low temperature and information about  the weather condition
 
 
+
 ## OPTIONS
 
   To know the temperature of the place where you are :
   node index.js
   
   To know the temperature of a specific place you tape:
-  node index.js -s courbevoie
+  node index.js -v [NOM DE LA VILLE]
+  
+  To change the unit in degree Celcius you can tape:
+  node index.js -c 
 
  
