@@ -12,9 +12,11 @@
 
 
 ## HOW DOES IT WORK ?
-  
-  * Step 1
-    open a terminal and go to the good directory
+
+*********************************************
+  - Step 
+*********************************************  
+open a terminal and go to the good directory
     node index.js
     npm install to install all the modules necessary to work the code.
 
