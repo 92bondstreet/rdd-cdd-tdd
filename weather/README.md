@@ -34,7 +34,7 @@
   node index.js
   
   To know the temperature of a specific place you tape:
-  node index.js -v [NOM DE LA VILLE]
+  node index.js -v [NOM_DE_LA_VILLE]
   
   To change the unit in degree Celcius you can tape:
   node index.js -c 
