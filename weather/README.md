@@ -30,13 +30,13 @@
 
 ## OPTIONS
 
-  To know the temperature of the place where you are :
+ * To know the temperature of the place where you are :
          **node index.js**
   
-  To know the temperature of a specific place you need to add -v plus the name of the country :
+ * To know the temperature of a specific place you need to add -v plus the name of the country :
          **node index.js -v [NAME_COUNTRY]**
   
-  To change the unit in degree Celcius you can need to add -c:
+  * To change the unit in degree Celcius you can need to add -c:
          **node index.js -c**
 
  
