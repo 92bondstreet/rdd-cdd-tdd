@@ -3,9 +3,7 @@
 ![](http://www.madeliasliveweather.com/Website%20Images/Website%20Logo.jpg)
 
 
-**********************************************
 ## FEATURES
-**********************************************
 
     Fork the project via github
     Clone the project git clone https://github.com/YOUR_USERNAME/drivy
@@ -16,9 +14,8 @@
     Check your codebase by opening /public/index.html
     Check the ouput in your browser console
 
-**********************************************
 ## INSTALL
-**********************************************
+
 
 1) Fork le dossier
 2) Clone
@@ -32,9 +29,8 @@
 // ou Faire installer npm install.
 
 
-**********************************************
 ## How does it work ?
-**********************************************
+
 1) To know the temperature of the place where you are :
  node index.js
 
